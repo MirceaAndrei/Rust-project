@@ -4,7 +4,7 @@
  
 :::info 
 
-**Author**: RATA MIRCEA-ANDREI \
+**Author**: RATA MIRCEA-ANDREI 
 
 :::
 
