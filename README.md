@@ -31,15 +31,6 @@ The motivation behind this project stems from a desire to enhance home and prope
 
 ![System Diagram](arhitecture1.png)
 
-
-## Hardware
-
-The hardware includes a Raspberry Pi Pico W for control, a PIR sensor for motion detection, LEDs for visual alerts, a buzzer for audio alerts, an LCD screen for display, and a keypad for user input and password authentication.
-- **Raspberry Pi Pico W** is the microcontroller,the brain of this project.
-- **Passive Infrared (PIR) sensor**  is used to detect movement.
-- **LEDs** are used to provide visual alerts when motion is detected.
-    I am am the software part,with small steps trying to learn how to do it.
-
 ## Hardware
 
 The hardware includes a Raspberry Pi Pico W for control, a PIR sensor for motion detection, an LED for visual alerts, a buzzer for audio alerts, an LCD screen for display, and a keypad for user input and password authentication.
