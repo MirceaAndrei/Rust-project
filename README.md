@@ -5,7 +5,6 @@
 :::info 
 
 **Author**: RATA MIRCEA-ANDREI \
-**GitHub Project Link**: https://github.com/UPB-FILS-MA/project-MirceaAndrei/tree/main
 
 :::
 
