@@ -2,11 +2,11 @@
 
  Raspberry Pi Pico W-powered Smart Burglar Alarm System with Multi-Sensor Detection.
  
-:::info 
+
 
 **Author**: RATA MIRCEA-ANDREI 
 
-:::
+
 
 ## Description
 
@@ -31,27 +31,6 @@ The motivation behind this project stems from a desire to enhance home and prope
 
 ![System Diagram](arhitecture1.png)
 
-## Log
-
-<!-- write every week your progress here -->
-
-### 8-12.04
-    I choose the concept and the main ideas for this project.
-### 15-19.04
-    I found all the hardware parts and everything that i need and i proceed a order.
-
-### 26.04-3.05
-    I already learned how it should work, and I am still at the hardware part, at all the connection and everything. I try to make them work
-    
-### 6.05-10.05
-    I manage to do all the hardware part and finished soldering all the parts.
-    
-### 13.05-17.05
-    I am  the software part,with small steps trying to learn how to do it.
-    I'm still trying to improve as mush as I can, and find new ideas to implement for this project.
-    
-### 20.04-25.04
-    I finished everything on the project,the software milestone and also the design and fix all the errors.
 
 ## Hardware
 
