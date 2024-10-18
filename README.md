@@ -347,12 +347,4 @@ The format is
   
 
 
-## Links
 
-<!-- Add a few links that inspired you and that you think you will use for your project -->
-
-1. [Lab 4 ](https://embedded-rust-101.wyliodrin.com/docs/lab/04)
-2. [Lab 7](https://embedded-rust-101.wyliodrin.com/docs/lab/04)
-3. [Lab 8](https://embedded-rust-101.wyliodrin.com/docs/lab/04)
-4. [Rust tutorials ](https://www.alexdwilson.dev/learning-in-public/how-to-program-a-raspberry-pi-pico)
-5. [The concept](https://electrocredible.com/raspberry-pi-pico-motion-sensor-email-micropython/)
